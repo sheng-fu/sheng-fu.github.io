@@ -1,7 +1,7 @@
 ---
 layout: home2
-title: Me in a Nutshell
-description: "Jordi Pont-Tuset's website"
+title: About me
+description: "Sheng-Fu Wang's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: trees.jpg
@@ -12,6 +12,8 @@ Welcome! I am a linguist from the <a href="https://as.nyu.edu/content/nyu-as/as/
 <br />
 
 I am interested in the relationship between speech perception and phonotactics, as well as the typology of phonemic contrasts and inventories. Nasal segments are a recurring theme in my current research. In addition to phonetics and phonology, I also have an interest in natural language processing (NLP), especially in the application of NLP and machine learning tools in answering questions in linguistics.
+
+<br />
 
 Before coming to NYU, my research focused on the phonetics of discourse-level prosody in spontaneous speech in Taiwanese (Taiwan Southern Min), and I still have related research interests in tone sandhi and tonogenesis.
 
