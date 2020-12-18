@@ -29,8 +29,8 @@ owner:
 # For external links add external: true
 links:
    - title: CV
-     url: 
-     external: true
+     url: /cv/
+     #external: true
   - title: Publications
     url: /publications/
   #- title: Code
