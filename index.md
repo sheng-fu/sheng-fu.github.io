@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: About me
+title: About
 description: "Sheng-Fu Wang's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
