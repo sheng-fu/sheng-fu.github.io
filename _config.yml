@@ -28,13 +28,13 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Curriculum
-     url: https://sheng-fu.github.io/
-     external: true
+  - title: CV
+    url: https://drive.google.com/file/d/1uuev-42saEJYnUEOl7ZDKCVnBKa86au3/view?usp=sharing
+    external: true
   - title: Publications
     url: /publications/
-  - title: Code
-    url: /code/
+  #- title: Code
+  #  url: /code/
   #- title: Blog
   #  url: /blog/
 
