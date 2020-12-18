@@ -29,7 +29,7 @@ owner:
 # For external links add external: true
 links:
    - title: CV
-     url: https://drive.google.com/file/d/1uuev-42saEJYnUEOl7ZDKCVnBKa86au3/view?usp=sharing
+     url 
      external: true
   - title: Publications
     url: /publications/
