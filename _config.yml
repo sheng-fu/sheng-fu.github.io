@@ -3,7 +3,6 @@ description:      Welcome to my website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //sheng-fu.github.io
 #http://localhost:5000
-#https://jponttuset.github.io
 disqus_shortname: sheng-fu
 
 # Owner/author information
@@ -20,7 +19,7 @@ owner:
   # google_plus: 
   # github: sheng-fu
 # Analytics and webmaster tools stuff goes here
-# google_analytics: UA-52736040-1
+  google_analytics: UA-84969433-1
 # google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify:
