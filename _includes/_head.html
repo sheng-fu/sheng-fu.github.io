@@ -2,6 +2,10 @@
 <title>{{ site.title }} {% if page.title %} &#8211; {{ page.title }} {% endif %}</title>
 <meta name="description" content="{{ page.description }}">
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
+{% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+{% endif %}
+
 {% if site.owner.twitter %}<!-- Twitter Cards -->
 	{% if page.image.feature %}
 		<meta name="twitter:card" content="summary_large_image">
