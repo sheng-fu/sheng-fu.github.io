@@ -28,13 +28,13 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-   - title: CV
-     url: /cv/
+  # - title: CV
+  #   url: /cv/
      #external: true
   - title: Publications
     url: /publications/
-  #- title: Code
-  #  url: /code/
+  - title: Code
+    url: /code/
   #- title: Blog
   #  url: /blog/
 
