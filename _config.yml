@@ -28,7 +28,7 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: CV
+  - title: Curriculum
      url: https://sheng-fu.github.io/
      external: true
   - title: Publications
