@@ -4,7 +4,6 @@ title: About
 description: "Sheng-Fu Wang's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: manhattan.JPG
 ---
 
 Welcome! I am a linguist from the <a href="https://as.nyu.edu/content/nyu-as/as/departments/linguistics/homepage.html" target="_blank">Department of Linguistics</a>, New York University, where I received my PhD in September, 2020. My dissertation “Feature systems, inventory structures, and phonological classes” was supervised by <a href="https://wp.nyu.edu/gilliangallagher/" target="_blank">Gillian Gallagher</a>.
