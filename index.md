@@ -6,7 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
 ---
 
-Welcome! I am a linguist from the <a href="https://as.nyu.edu/content/nyu-as/as/departments/linguistics/homepage.html" target="_blank">Department of Linguistics</a>, New York University, where I received my PhD in September, 2020. My dissertation “Feature systems, inventory structures, and phonological classes” was supervised by <a href="https://wp.nyu.edu/gilliangallagher/" target="_blank">Gillian Gallagher</a>.
+Welcome! I am a postdoctoral researcher at the <a href="http://www.ling.sinica.edu.tw/en/Home", target="_blank">Institute of Linguistics, Academia Sinica</a>. I was previously at the <a href="https://as.nyu.edu/content/nyu-as/as/departments/linguistics/homepage.html" target="_blank">Department of Linguistics</a>, New York University, where I received my PhD in September, 2020. My dissertation “Feature systems, inventory structures, and phonological classes” was supervised by <a href="https://wp.nyu.edu/gilliangallagher/" target="_blank">Gillian Gallagher</a>.
 
 <br />
 
