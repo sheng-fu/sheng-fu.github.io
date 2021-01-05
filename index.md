@@ -14,7 +14,7 @@ I am interested in the relationship between speech perception and phonotactics, 
 
 <br />
 
-Before coming to NYU, my research focused on the phonetics of discourse-level prosody in spontaneous speech in Taiwanese (Taiwan Southern Min), and I still have related research interests in tone sandhi and tonogenesis.
+I am also interested in the phonetics of discourse-level prosody in spontaneous speech in Taiwanese (Taiwan Southern Min), as well as tone sandhi and tonogenesis.
 
 <br />
 
