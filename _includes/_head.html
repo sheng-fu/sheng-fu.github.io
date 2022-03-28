@@ -3,7 +3,7 @@
 <meta name="description" content="{{ page.description }}">
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
 {% if site.google_analytics and jekyll.environment == 'production' %}
-    {% include analytics.html %}
+    {% include google-analytics.html %}
 {% endif %}
 
 {% if site.owner.twitter %}<!-- Twitter Cards -->
