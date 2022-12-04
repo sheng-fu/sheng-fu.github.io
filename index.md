@@ -6,7 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
 ---
 
-Welcome! I am a postdoctoral researcher at the <a href="http://www.ling.sinica.edu.tw/en/Home" target="_blank">Institute of Linguistics</a>, Academia Sinica. I was previously at the <a href="https://as.nyu.edu/content/nyu-as/as/departments/linguistics/homepage.html" target="_blank">Department of Linguistics</a>, New York University, where I received my PhD in September, 2020. My dissertation “Feature systems, inventory structures, and phonological classes” was supervised by <a href="https://wp.nyu.edu/gilliangallagher/" target="_blank">Gillian Gallagher</a>.
+Welcome! I am an assistant research fellow at the <a href="https://www.ling.sinica.edu.tw/main/en" target="_blank">Institute of Linguistics</a>, Academia Sinica. I was previously at the <a href="https://as.nyu.edu/content/nyu-as/as/departments/linguistics/homepage.html" target="_blank">Department of Linguistics</a>, New York University, where I received my PhD in September, 2020. My dissertation “Feature systems, inventory structures, and phonological classes” was supervised by <a href="https://wp.nyu.edu/gilliangallagher/" target="_blank">Gillian Gallagher</a>.
 
 <br />
 
@@ -14,7 +14,7 @@ I am interested in the relationship between speech perception and phonotactics, 
 
 <br />
 
-I am also interested in the phonetics of discourse-level prosody in spontaneous speech in Taiwanese (Taiwan Southern Min), as well as tone sandhi and tonogenesis.
+I am also interested in the interaction between predictability and prosody in spontaneous speech. My works in phonetics mostly focus on Taiwanese (Taiwan Southern Min).
 
 <br />
 
