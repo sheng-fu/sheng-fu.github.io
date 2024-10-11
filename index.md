@@ -10,11 +10,11 @@ Welcome! I am an assistant research fellow at the <a href="https://www.ling.sini
 
 <br />
 
-I am interested in the relationship between speech perception and phonotactics, as well as the typology of phonemic contrasts and inventories. In addition to phonetics and phonology, I also have an interest in natural language processing (NLP), especially in the application of NLP and machine learning tools in answering questions in linguistics.
+My research interests in phonetics and phonology include the interaction between prosody and predictability, phonotactics, and the typology of phonemic contrasts and inventories. My works in phonetics mostly focus on Taiwanese.
 
 <br />
 
-I am also interested in the interaction between predictability and prosody in spontaneous speech. My works in phonetics mostly focus on Taiwanese (Taiwan Southern Min).
+I also work in the field of natural language processing (NLP), especially in the application of NLP and machine learning tools in answering questions in linguistics. I am also interested in the evaluation of neural network models using linguistic tasks.
 
 <br />
 
